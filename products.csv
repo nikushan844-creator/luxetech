@@ -1,0 +1,13 @@
+id,sku,category,brand,name,description,price_gel,old_price_gel,stock,status,featured
+1,LT-PH-001,Smartphones,Apple,iPhone 15 Pro 128GB,"A17 Pro chip, titanium body, 48MP camera, USB-C",3199,3499,12,active,true
+2,LT-PH-002,Smartphones,Samsung,Galaxy S24 Ultra 256GB,"Galaxy AI, 200MP camera, S Pen, AMOLED display",3299,3599,8,active,true
+3,LT-LP-001,Laptops,Apple,MacBook Air 13 M3 256GB,"Lightweight laptop with M3 chip, 13-inch Liquid Retina display",3499,3799,6,active,true
+4,LT-LP-002,Laptops,Lenovo,IdeaPad Slim 5 16GB/512GB,"Everyday performance laptop with Ryzen processor and fast SSD",1899,2099,14,active,false
+5,LT-TB-001,Tablets,Apple,iPad Air 11 M2 128GB,"Portable tablet with M2 chip, Apple Pencil Pro support",2199,2399,10,active,false
+6,LT-AU-001,Audio,Sony,WH-1000XM5 Headphones,"Wireless noise cancelling headphones with long battery life",999,1199,18,active,true
+7,LT-AU-002,Audio,JBL,Charge 5 Speaker,"Portable waterproof Bluetooth speaker with powerbank function",399,459,24,active,false
+8,LT-TV-001,TV & Home,Samsung,55-inch QLED 4K Smart TV,"Quantum Dot display, smart apps, HDR support",1899,2199,7,active,true
+9,LT-GM-001,Gaming,Sony,PlayStation 5 Slim,"Next-generation console with DualSense controller",1599,1799,9,active,true
+10,LT-AC-001,Accessories,Anker,65W USB-C Charger,"Compact fast charger for phones, tablets, and laptops",129,159,35,active,false
+11,LT-AC-002,Accessories,Logitech,MX Master 3S Mouse,"Ergonomic wireless productivity mouse with quiet clicks",299,349,20,active,false
+12,LT-WT-001,Wearables,Apple,Apple Watch Series 9 45mm,"Health tracking, always-on display, fast performance",1299,1499,11,active,true
